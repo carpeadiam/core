@@ -1,0 +1,242 @@
+{
+  "grid": [
+    [
+      " ",
+      " ",
+      "#",
+      " ",
+      " "
+    ],
+    [
+      "t",
+      "e",
+      "c",
+      "h",
+      "y"
+    ],
+    [
+      "m",
+      "a",
+      "t",
+      "e",
+      "s"
+    ],
+    [
+      "E",
+      "V",
+      "I",
+      "A",
+      "N"
+    ],
+    [
+      "#",
+      " ",
+      "#",
+      " ",
+      " "
+    ]
+  ],
+  "words": {
+    "1A": {
+      "word": "mates",
+      "clues": [
+        "Associates",
+        "Pub buddies",
+        "Ends of some board meetings?",
+        "Significant others",
+        "\"The Newlywed Game\" contestants",
+        "Partners",
+        "Chess finishes",
+        "Better halves",
+        "6 Down finales",
+        "Ship's officers",
+        "Ones to go pubbing with",
+        "Friends in a pub",
+        "Chess endings",
+        "Brisbane buddies",
+        "Spouses",
+        "Identical socks",
+        "Pair of socks",
+        "Some game endings"
+      ],
+      "row": 2,
+      "col": 0,
+      "orientation": "across"
+    },
+    "2A": {
+      "word": "EVIAN",
+      "clues": [
+        "Brand of water named after a town on Lake Geneva",
+        "Water with the Alps in its logo",
+        "Aquafina rival",
+        "Alternative to Dasani or Deer Park",
+        "Fiji alternative",
+        "Bottled water brand",
+        "Aquafina rival",
+        "Bottled water with three mountain peaks in its logo",
+        "Aquafina competitor",
+        "Fiji alternative",
+        "Town on Lake Geneva opposite Lausanne, Switzerland",
+        "Fiji competitor",
+        "Aquafina rival",
+        "Big brand of 55-Across",
+        "Competitor of Aquafina",
+        "Aquafina competitor",
+        "Perrier rival",
+        "Perrier competitor",
+        "Perrier rival",
+        "Aquafina alternative",
+        "Perrier alternative",
+        "Poland Spring competitor",
+        "Aquafina competitor",
+        "Water from France",
+        "Lake Geneva spa",
+        "Bottled water brand",
+        "Big name in bottled water",
+        "Eau source",
+        "Bottled water from France",
+        "Perrier rival",
+        "Perrier alternative",
+        "Brand of water",
+        "Poland Spring competitor",
+        "Poland Spring competitor",
+        "Spa on Lake Geneva",
+        "Lake Geneva spa",
+        "Lake of Geneva resort",
+        "Poland Spring competitor",
+        "Lake Geneva spa",
+        "Poland Springs rival",
+        "Bottled water brand",
+        "Water choice",
+        "French spa",
+        "Spa on Lake Geneva",
+        "Spa famous for its water"
+      ],
+      "row": 3,
+      "col": 0,
+      "orientation": "across"
+    },
+    "3A": {
+      "word": "techy",
+      "clues": [
+        "Expert with computers"
+      ],
+      "row": 1,
+      "col": 0,
+      "orientation": "across"
+    },
+    "4A": {
+      "word": "ates",
+      "clues": [
+        "Chemical suffixes",
+        "Tropical fruit tree",
+        "Suffixes with sultan"
+      ],
+      "row": 2,
+      "col": 1,
+      "orientation": "across"
+    },
+    "5A": {
+      "word": "tech",
+      "clues": [
+        "PC whiz",
+        "With 5-Down, some volatile investments",
+        "\"Rambling Wreck From Georgia ___\"",
+        "Part of M.I.T.: Abbr.",
+        "Virginia ___",
+        "Programming pro, e.g.",
+        "Word in many college names",
+        "___ support",
+        "PC support person",
+        "Lab ___",
+        "Computer crash investigator, informally",
+        "Certain school",
+        "Practical school, for short",
+        "PC fixer",
+        "Kind of support for a computer user",
+        "Low-___",
+        "\"Ramblin' Wreck From Georgia ___\"",
+        "High-___",
+        "Engineer's school",
+        "Computer department",
+        "Corporate department that offers support",
+        "Kind of support offered by a 3-Down",
+        "Word after Georgia or Virginia in school names",
+        "Apple field",
+        "Engineers' school, briefly",
+        "See 27-Down",
+        "Carnegie ___ (noted name in engineering)",
+        "Word with Georgia or high"
+      ],
+      "row": 1,
+      "col": 0,
+      "orientation": "across"
+    },
+    "6A": {
+      "word": "mate",
+      "clues": [
+        "Ninth word ...",
+        "Game ender",
+        "\"G'day, ___!\"",
+        "Another end of a chess game",
+        "\"Check and ___\"",
+        "Recipient of \"G'day\"",
+        "Word with soul or help",
+        "Running ___",
+        "Spouse",
+        "Kiwi's companion",
+        "One to whom you might say \"G'day!\"",
+        "Deck officer",
+        "Buddy",
+        "Certain game ending",
+        "What \"++\" means in Qe2++",
+        "\"G'day\" recipient",
+        "Pal, Down Under",
+        "Outback buddy",
+        "Partner",
+        "Wife",
+        "Counterpart",
+        "Pal",
+        "Bloke",
+        "One of a couple",
+        "The other shoe, e.g.",
+        "Corner, as a king",
+        "Aussie buddy",
+        "Bud",
+        "Pal from Down Under",
+        "Dating service success",
+        "Aussie's buddy",
+        "Canberra chum",
+        "Impossible chess ending with a king and knight versus a lone king",
+        "Captain's aide",
+        "Sock necessity",
+        "Game-ending word",
+        "Last word in chess",
+        "Chum",
+        "Bad news for the king",
+        "Final check",
+        "What a stocking needs",
+        "Second sock, say",
+        "Game ending",
+        "Australian pal"
+      ],
+      "row": 2,
+      "col": 0,
+      "orientation": "across"
+    }
+  },
+  "black_squares": [
+    [
+      4,
+      0
+    ],
+    [
+      4,
+      2
+    ],
+    [
+      0,
+      2
+    ]
+  ]
+}

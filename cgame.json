@@ -1,0 +1,54 @@
+{
+  "categories": {
+    "Easiest": {
+      "MODEL FOR REFERENCE": [
+        "standard",
+        "benchmark",
+        "gauge",
+        "yardstick"
+      ]
+    },
+    "Easy": {
+      "SPORTS VENUES": [
+        "field",
+        "court",
+        "rink",
+        "dome"
+      ]
+    },
+    "Medium": {
+      "N.B.A. TEAM PLAYER": [
+        "spur",
+        "pacer",
+        "rocket",
+        "clipper"
+      ]
+    },
+    "Hard": {
+      "___BERRY [note no space]": [
+        "straw",
+        "rasp",
+        "blue",
+        "goose"
+      ]
+    }
+  },
+  "all_words": [
+    "field",
+    "clipper",
+    "spur",
+    "rocket",
+    "yardstick",
+    "blue",
+    "standard",
+    "gauge",
+    "goose",
+    "pacer",
+    "benchmark",
+    "straw",
+    "rink",
+    "court",
+    "rasp",
+    "dome"
+  ]
+}

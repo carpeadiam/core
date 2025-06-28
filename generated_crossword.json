@@ -1,0 +1,426 @@
+{
+  "metadata": {
+    "title": "Generated Crossword",
+    "author": "Crossword Generator",
+    "size": 8,
+    "created": "2025-06-27T12:05:18.768082"
+  },
+  "grid": [
+    [
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "S",
+        "number": 1,
+        "black": false
+      },
+      {
+        "letter": "W",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": "O",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": "O",
+        "number": 2,
+        "black": false
+      },
+      {
+        "letter": "N",
+        "number": null,
+        "black": false
+      }
+    ],
+    [
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "M",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      }
+    ],
+    [
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "L",
+        "number": 3,
+        "black": false
+      },
+      {
+        "letter": "A",
+        "number": 4,
+        "black": false
+      },
+      {
+        "letter": "G",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      }
+    ],
+    [
+      {
+        "letter": "E",
+        "number": 5,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "M",
+        "number": 6,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "E",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      }
+    ],
+    [
+      {
+        "letter": "J",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "L",
+        "number": 7,
+        "black": false
+      },
+      {
+        "letter": "O",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": "N",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": "S",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      }
+    ],
+    [
+      {
+        "letter": "E",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "T",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "I",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      }
+    ],
+    [
+      {
+        "letter": "C",
+        "number": 8,
+        "black": false
+      },
+      {
+        "letter": "H",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": "A",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": "I",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "R",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      }
+    ],
+    [
+      {
+        "letter": "T",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": "F",
+        "number": null,
+        "black": false
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      },
+      {
+        "letter": null,
+        "number": null,
+        "black": true
+      }
+    ]
+  ],
+  "words": [
+    {
+      "word": "SWOON",
+      "clue": "conk",
+      "row": 0,
+      "col": 3,
+      "direction": "across",
+      "number": 1
+    },
+    {
+      "word": "OMG",
+      "clue": "\"I'm shocked!,\" in a text",
+      "row": 0,
+      "col": 6,
+      "direction": "down",
+      "number": 2
+    },
+    {
+      "word": "LAG",
+      "clue": "gaol",
+      "row": 2,
+      "col": 4,
+      "direction": "across",
+      "number": 3
+    },
+    {
+      "word": "AESIR",
+      "clue": "Scandinavian gods",
+      "row": 2,
+      "col": 5,
+      "direction": "down",
+      "number": 4
+    },
+    {
+      "word": "EJECT",
+      "clue": "expel",
+      "row": 3,
+      "col": 0,
+      "direction": "down",
+      "number": 5
+    },
+    {
+      "word": "MOTIF",
+      "clue": "theme",
+      "row": 3,
+      "col": 3,
+      "direction": "down",
+      "number": 6
+    },
+    {
+      "word": "LONS",
+      "clue": "Chaney Jr. and Sr.",
+      "row": 4,
+      "col": 2,
+      "direction": "across",
+      "number": 7
+    },
+    {
+      "word": "CHAI",
+      "clue": "Indian spiced tea",
+      "row": 6,
+      "col": 0,
+      "direction": "across",
+      "number": 8
+    }
+  ],
+  "clues": {
+    "across": {
+      "1": "conk",
+      "3": "gaol",
+      "7": "Chaney Jr. and Sr.",
+      "8": "Indian spiced tea"
+    },
+    "down": {
+      "2": "\"I'm shocked!,\" in a text",
+      "4": "Scandinavian gods",
+      "5": "expel",
+      "6": "theme"
+    }
+  }
+}
